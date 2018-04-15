@@ -6,8 +6,7 @@
     <fileName>Project.exe</fileName>
     <md5>976fa102575394147ba6a33bcea11830</md5>
     <description>
-      Update: 06/19/2014:
-      1. Added notification message when the current version is already the latest.
+      Arnab Dhar
     </description>
     <launchArgs></launchArgs>
   </update>
